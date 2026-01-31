@@ -12,13 +12,7 @@
 
 [Features](#-features) • [Hardware](#-hardware) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
 
----
-
-### 🎥 Demo
-
-![Submarine Demo](https://via.placeholder.com/800x400/0f2027/ffffff?text=Submarine+Demo+Video)
-
-*Real-time autonomous object detection and tracking underwater*
+--
 
 </div>
 
@@ -137,6 +131,4 @@ This project is a fully autonomous underwater submarine robot built with **Raspb
 
 ---
 
-## 💻 Software Stack
 
-### Backend
